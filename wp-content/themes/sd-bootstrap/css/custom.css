@@ -1,0 +1,19 @@
+html {
+	height: 100% !important;
+}	
+main {
+	padding-top: 65px;
+	padding-bottom: 65px;
+}
+
+body {
+	padding-top: 30px;
+	padding-bottom: 95px;
+	height: 100%;
+}
+body.admin-bar {
+	padding-top: 30px;
+}
+body.admin-bar .fixed-top {
+    top: 32px;
+}
